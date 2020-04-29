@@ -9,4 +9,4 @@ To use train.py:
     - images folder: contain textline images
  Test on SROIE dataset: 
   - acc_by_char ~ 98%
-  - acc_by_word ~95%
+  - acc_by_word ~95% 
