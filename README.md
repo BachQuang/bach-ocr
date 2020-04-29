@@ -1,5 +1,5 @@
 # This is model for ocr
-Contact bachquangtran98@gmail.com for more detail.
+If you want to use in your bussiness please contact bachquangtran98@gmail.com for more detail.
 To use train.py:
   - Create data folder 
   - Put vocab.json to ./data
